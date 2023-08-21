@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2023-08-21T18:55:57.726Z",
-    "end": "2023-08-21T18:55:58.030Z",
-    "duration": 304
+    "start": "2023-08-21T19:11:52.366Z",
+    "end": "2023-08-21T19:11:52.612Z",
+    "duration": 246
   },
   "tests": [
     {
@@ -27,14 +27,14 @@
     {
       "title": "prepends a cat to the beginning of the cats array",
       "fullTitle": "index.js array functions destructivelyPrependCat(name) prepends a cat to the beginning of the cats array",
-      "duration": 3,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "removes the last cat from the cats array",
       "fullTitle": "index.js array functions destructivelyRemoveLastCat() removes the last cat from the cats array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,7 +48,7 @@
     {
       "title": "appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js array functions appendCat(name) appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -62,7 +62,7 @@
     {
       "title": "removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js array functions removeLastCat() removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -94,14 +94,14 @@
     {
       "title": "prepends a cat to the beginning of the cats array",
       "fullTitle": "index.js array functions destructivelyPrependCat(name) prepends a cat to the beginning of the cats array",
-      "duration": 3,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "removes the last cat from the cats array",
       "fullTitle": "index.js array functions destructivelyRemoveLastCat() removes the last cat from the cats array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -115,7 +115,7 @@
     {
       "title": "appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js array functions appendCat(name) appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -129,7 +129,7 @@
     {
       "title": "removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js array functions removeLastCat() removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },

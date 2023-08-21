@@ -20,6 +20,7 @@ function appendCat() {
     copyOfCats.push ('Broom')
     return copyOfCats
 }
+
 function prependCat() {
     var copyOfCats = [...cats] 
     copyOfCats.unshift ('Arnold')
@@ -31,7 +32,6 @@ function removeLastCat() {
     copyOfCats.pop ()
     return copyOfCats
 }
-
 
 function removeFirstCat() {
     var copyOfCats = [...cats] 
